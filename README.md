@@ -1,3 +1,9 @@
+[![Build Status](https://travis-ci.org/tzkmx/fp-concepts-php.svg?branch=master)](https://travis-ci.org/tzkmx/fp-concepts-php)
+[![Maintainability](https://api.codeclimate.com/v1/badges/4bb8e7c64eba145a97d2/maintainability)](https://codeclimate.com/github/tzkmx/fp-concepts-php/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/4bb8e7c64eba145a97d2/test_coverage)](https://codeclimate.com/github/tzkmx/fp-concepts-php/test_coverage)
+
+# Conceptos de Programación Funcional
+
 Este es un trabajo progresivo de estudio de conceptos
 de programación funcional llevados a PHP.
 
