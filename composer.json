@@ -1,0 +1,22 @@
+{
+    "name": "jefrancomix/fp-concepts",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jesus E. Franco Martinez",
+            "email": "tezcatl@fedoraproject.org"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tzkmx\\FP\\": "src/"
+        },
+        "files": ["src/functions.php"]
+    },
+    "require": {
+        "php": "^7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.3"
+    }
+}
